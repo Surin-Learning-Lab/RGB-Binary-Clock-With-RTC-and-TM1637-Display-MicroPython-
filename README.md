@@ -167,4 +167,5 @@ Blue
 ## Setting the Time
 
 Modify this line in the firmware before deployment:
+rtc.datetime((2024, 8, 4, 1, 17, 36, 0))
 
